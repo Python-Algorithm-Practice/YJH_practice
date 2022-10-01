@@ -44,4 +44,8 @@ def solution():
     print(kruskal(edges, n, begin, end))
 
 
+# 1 -> 4
+# [((1, 2), 12), ((1, 3), 10), ((2, 4), 4)]
+# root: [1, 1, 1, 1]
+
 solution()

@@ -5,6 +5,7 @@
     2) 길이가 N 도달한 경우 출력
     3) 1, 3, 5, 7, 9 하나씩 붙이기
     4) 재귀 호출
+참조: https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4
 """
 import sys
 from math import sqrt

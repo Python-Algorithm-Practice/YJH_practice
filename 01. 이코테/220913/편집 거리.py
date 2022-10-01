@@ -1,5 +1,6 @@
 """
 BOJ 15483 https://www.acmicpc.net/problem/15483
+참조: https://velog.io/@embeddedjune/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-DP-Q36-%ED%8E%B8%EC%A7%91-%EA%B1%B0%EB%A6%AC
 """
 import sys
 
